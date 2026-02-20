@@ -17,17 +17,17 @@ I breathe **Flutter**, worship clean architecture, obsess over 60fps animations,
 
 Currently leveling up:
 - 🧪 **Spring Boot** backend sorcery
-- 🧠 **On-device ML** magic for smarter mobile experiences
+- 🧠 **On-device ML** magic (TensorFlow Lite / ML Kit vibes)
 
 Born to become an **Elden Lord**… forced to write 🔥 code instead.
 
 ---
 
-### ⚡ Quick Stats
+### ⚡ Quick Stats (Auto-updated daily – no more broken cards!)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LDrago-zae&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDrago-zae&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="./profile/stats.svg" alt="Zaeem's GitHub Stats" height="180"/>
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="180"/>
 </div>
 
 ---
