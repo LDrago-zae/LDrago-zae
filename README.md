@@ -1,36 +1,71 @@
-# Hi 👋, I'm Zaeem Imtiaz
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Zaeem+Imtiaz;Flutter+%26+Mobile+Sorcerer;Crafting+pixel-perfect+experiences;One+widget+at+a+time+✨" alt="Typing SVG" />
+</div>
 
-A **Fullstack Mobile App Developer** passionate about building modern, scalable mobile solutions with **Flutter**, **Firebase**, and a love for smooth UI/UX. I aim to bridge performance with elegant design while continuously exploring innovative tech in mobile development.
+<br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=LDrago-zae&label=Profile%20views&color=0e75b6&style=flat)
-
-- 🌱 I’m currently learning **Spring Boot** and **Machine Learning in Mobile Apps**
-- 📫 Reach me at: **zaeemimtiaz904@gmail.com**
-- ⚡ Fun fact: *Born to be an Elden Lord, forced to do code*
-
----
-
-## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaeem-imtiaz-8b9baa24a/)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=LDrago-zae&label=Profile%20Views&color=00d4ff&style=for-the-badge&logo=starship&labelColor=000000" alt="Profile views" />
+</div>
 
 ---
 
-## 🛠️ Tech Stack
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![XML](https://img.shields.io/badge/-XML-FF6600?style=flat&logo=xml&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![REST APIs](https://img.shields.io/badge/-REST%20API-333333?style=flat&logo=api&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+### 🚀 About Me
+
+Full-stack **mobile alchemist** turning ideas into buttery-smooth cross-platform apps.  
+I breathe **Flutter**, worship clean architecture, obsess over 60fps animations, and secretly dream in Dart.
+
+Currently leveling up:
+- 🧪 **Spring Boot** backend sorcery
+- 🧠 **On-device ML** magic for smarter mobile experiences
+
+Born to become an **Elden Lord**… forced to write 🔥 code instead.
 
 ---
 
-## 📊 GitHub Stats
+### ⚡ Quick Stats
 
-![Zaeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=LDrago-zae&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LDrago-zae&layout=compact&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LDrago-zae&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDrago-zae&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+</div>
+
+---
+
+### 🛠️ Tech Arsenal (2026 Edition)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Riverpod-00BFFF?style=for-the-badge&logoColor=white" alt="Riverpod"/>
+  <img src="https://img.shields.io/badge/REST%20API-FF3366?style=for-the-badge&logoColor=white" alt="REST API"/>
+</div>
+
+---
+
+### 🌐 Let's Connect & Build Something Epic
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaeem-imtiaz-8b9baa24a/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaeemimtiaz904@gmail.com)
+
+</div>
+
+<br/>
+
+> “Code is like humor. When you have to explain it, it’s bad.”  
+> — Me, after debugging at 3 AM ☕
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/quote?theme=radical" alt="Random Dev Quote"/>
+</div>
